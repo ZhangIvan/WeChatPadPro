@@ -144,7 +144,7 @@ WeChatPadPro 提供了豐富的 WeChat 功能控制命令，包括：
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### 💬 Telegram 交流群
 
@@ -157,7 +157,7 @@ WeChatPadPro 提供了豐富的 WeChat 功能控制命令，包括：
 - 使用經驗分享
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### 🔔 釘釘交流群
 
@@ -167,6 +167,19 @@ WeChatPadPro 提供了豐富的 WeChat 功能控制命令，包括：
 - 技術討論
 - 問題解答
 - 使用經驗分享
+
+</td>
+<td width="33%" align="center">
+
+### 💼 微信付費專業群
+
+<img src="./static/qrcode/291c1d65b3828af40c62ddf7c48c2bd.jpg" width="180" alt="微信付費入群二維碼">
+
+🔒 **掃碼付費加入專業交流群**
+- VIP技術支持
+- 專屬功能體驗
+- 優先解決問題
+- 高級使用技巧分享
 
 </td>
 </tr>
